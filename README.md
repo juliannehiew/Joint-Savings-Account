@@ -1,6 +1,6 @@
 # Joint-Savings-Account
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](https://github.com/juliannehiew/Joint-Savings-Account/blob/main/Images/20-5-challenge-image.png)
 
 ### Background
 
@@ -12,7 +12,7 @@ In this Challenge, you will complete the code that enables your customers to sen
 ****************************************************************************************************************************************
 
 
-## Interacting with the Deployed Smart Contract
+## Results : Interacting with the Deployed Smart Contract 
 
 ### Deposit functionality of the smart contracts
 
@@ -28,7 +28,7 @@ In this Challenge, you will complete the code that enables your customers to sen
 
 
 
-### Transaction3 : Send 5 Ether
+### Transaction3 : Send 5 Ether as Wei
 
 ![An image](https://github.com/juliannehiew/Joint-Savings-Account/blob/main/Execution%20Results/Picture3.png)
 
